@@ -1,0 +1,7 @@
+BT22ECI002
+
+Expectations:
+Learning some cool git and github tricks
+
+%Fullfiled:
+~72%
